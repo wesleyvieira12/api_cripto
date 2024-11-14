@@ -28,5 +28,7 @@
         <env name="QUEUE_CONNECTION" value="sync"/>
         <env name="SESSION_DRIVER" value="array"/>
         <env name="TELESCOPE_ENABLED" value="false"/>
+        <env name="URL_API_COINGECKO" value="https://api.coingecko.com/api/v3"/>
+        <env name="TOKEN_API_COINGECKO" value="CG-yPoeyMbxUXJ3vjT5d24dPTk3"/>
     </php>
 </phpunit>

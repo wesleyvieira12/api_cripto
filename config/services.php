@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'coinGecko' => [
+        'url' => env('URL_API_COINGECKO'),
+        'token' => env('TOKEN_API_COINGECKO')
+    ]
+
 ];
